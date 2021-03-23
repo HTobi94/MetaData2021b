@@ -15,7 +15,7 @@
      "name": "Haibel",
      "email": "tobias.haibel@outlook.com",
      "freidok":"",
-     "orcid": ""
+     "orcid": "0000-0002-3457-6150"
    }
  ],
  "location": {
@@ -25,8 +25,8 @@
    "region": "Alpen",
    "city": "Bad Hindelang",
    "landscape": "Gebirge",
-   "latitude": 47.380483,
-   "longitude": 10.436605
+   "latitude": 47.381111,
+   "longitude": 10.437222
  },
  "period": {
     "begin": 1869,
@@ -37,7 +37,8 @@
  "subtopic": "Katastrophe",
  "keywords": ["Klimawandel","Alpen","Naturgefahren","Felsstürze","Hochvogel"], 
  "sources": [
-   {
+   {Kerckhoff J. (2019): Die Alpen in Bewegung. Planet Wissen, 22.05.2019. Online verfügbar unter https://www.planet-wissen.de/video-bergsturz--die-alpen-in-bewegung-100.html, zugegriffen am 25.02.2021.
+   },{Sabine Lindlbauer (2019): Extreme - Das neue Normal? Klimawandel in Bayern. Bayerischer Rundfunk, DokThema, 27.03.2019. Online verfügbar unter https://www.br.de/mediathek/video/dokthema-27032019-extreme-das-neue-normal-klimawandel-in-bayern-av:5c640019a8579500181be45c, zugegriffen am 27.02.2021.
    }
  ]
 
